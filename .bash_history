@@ -111,3 +111,40 @@ git remote add origin https://github.com/Hacker213C/Hacker212C.git
 git push -u origin main
 git clone https://github.com/usmeshshhinde19/instainsane
 README.md
+git mit
+git init
+git add.
+git add .
+git ckm
+git commit -m "first commit"
+git remote set-url origin https://github.com/Hacker213C/Hacker212C.git
+git push -u origin master
+git clone htto
+git clone https://github.com/usmsshshhinde19/instainsane
+sudo apt install apt-transport-https
+sudo nano /etc/apt/sources.list
+ls
+nkdir example
+nkdlr example
+mkdir example
+cd example
+touch hello.txt
+ls
+git add .
+git init
+git branch
+git add .
+git commit -m "first commit"
+git branche
+git branch
+git clone https://github.com/usmeshshhinde19/instainsane
+cd
+cd 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
+git push
+git clone https://github.com/usmeshshhinde19/instainsane
+git credential-manager install
+git credential-manager uninstall
+add-al
+add-apt-repository
+apt install software-properties-common
+add-apt-repository

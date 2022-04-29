@@ -1,6 +1,14 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[/home/kali/Desktop/README.md]
+row=4
+col=0
+
+[/home/kali/Desktop/Hacker212C]
+row=3
+col=0
+
 [Trash]
 row=0
 col=0
