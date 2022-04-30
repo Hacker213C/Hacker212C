@@ -148,3 +148,64 @@ add-al
 add-apt-repository
 apt install software-properties-common
 add-apt-repository
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Hacker213C/Hacker212C
+git push -u origin master
+git clone https://github.com/usmeshshhinde201
+git clone https://github.com/usmeshshhinde19/instainsane
+git clone └─$ git init
+Reinitialized existing Git repository in /home/kali/.git/
+┌──(kali㉿localhost)-[~]
+└─$ git add .
+┌──(kali㉿localhost)-[~]
+└─$ git commit -m "first commit"
+[master c5e1951] first commit
+┌──(kali㉿localhost)-[~]
+└─$ git remote add origin https://github.com/Hacker213C/Hacker212C
+error: remote origin already exists.
+┌──(kali㉿localhost)-[~]
+└─$ git push -u origin master
+Username for 'https://github.com': Hacker213C
+Password for 'https://Hacker213C@github.com': 
+Enumerating objects: 31, done.
+Counting objects: 100% (31/31), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (13/13), done.
+Writing objects: 100% (17/17), 6.85 KiB | 50.00 KiB/s, done.
+Total 17 (delta 8), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (8/8), completed with 8 local objects.
+To https://github.com/Hacker213C/Hacker212C.git
+branch 'master' set up to track 'origin/master'.
+┌──(kali㉿localhost)-[~]
+└─$ git clone https://github.com/usmeshshhinde201                            
+Cloning into 'usmeshshhinde201'...
+remote: Not Found
+fatal: repository 'https://github.com/usmeshshhinde201/' not found
+┌──(kali㉿localhost)-[~]
+└─$ git clone https://github.com/usmeshshhinde19/instainsane
+Cloning into 'instainsane'...
+Username for 'https://github.com': Hacker213C
+Password for 'https://Hacker213C@github.com': 
+sudo -i
+sudo nano /etc/apt/slurce.list
+sudo nano /etc/apt/source.list
+sudo nano /ect/apt/sources.list
+vim /etc/apt/sources.list
+vim etc/apt/sources.list
+code --user-data-dir
+apt install code-oss
+àcode --user-data-dir
+sudo -i
+vim /etc/apt/sources.list
+vim etc/apt/sources.list
+sudo apt update
+E: The repository 'http://ppa.launchpad.net/cybermax-dexter/sdl2-backport/ubuntu kinetic Release' does not have a Release file.
+apt upgrade
+git clone https://github.com/usmeshshhinde19/instainsane
+/etc/apt/sources.list
+vim /etc/apt/sources.list
+sudo apt update
+git clonne 
+sudo apt-update

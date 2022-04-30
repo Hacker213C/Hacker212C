@@ -17,4 +17,18 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///etc/apt/sources.list" added="2022-04-30T10:08:53.298091Z" modified="2022-04-30T10:45:03.052420Z" visited="2022-04-30T10:08:53.298094Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 5:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-04-30T10:45:03.052409Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
